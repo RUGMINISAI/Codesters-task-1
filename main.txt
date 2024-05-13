@@ -1,0 +1,5 @@
+CODESTERS – TASK 1
+
+1.	Write a C program to find second largest element in an array.
+2.	Write a C program to find the transpose of a matrix.
+3.	Write a c program to perform matrix addition
